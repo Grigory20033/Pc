@@ -62,7 +62,15 @@ min-height:100vh; }
      <a href="#" class="btn">Ver</a>
     </article>
 
-
+ 
+    <article class="block">
+        <i class="icon-social fa fa-instagram" ></i>
+        <h2>Instagram</h2>
+        <p>Lorem ipsum 
+            
+        dolor sit, amet consectetur adipisicing elit. Eaque accusantium nemo dolore placeat nam dicta saepe maiores totam? Tempore quod voluptate numquam esse veniam laudantium labore suscipit! Dolore, provident ab!</p>
+     <a href="#" class="btn">Ver</a>
+    </article>
     </body>
     
 </html>
