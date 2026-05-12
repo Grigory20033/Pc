@@ -32,7 +32,7 @@ min-height:100vh; }
     <body> 
        <nav class="navbar navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#" >Gestor de Inventario y Mantenimiento</a>
+            <a class="navbar-brand" href="#" >Gestor de Inventario y Mantenimiento a PC</a>
         </div>
        </nav>
      <div class="container-fluid">
