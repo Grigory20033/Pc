@@ -55,7 +55,7 @@ min-height:100vh; }
      
      <article class="block">
         <i class="icon-social fa fa-twitter" ></i>
-        <h3>Twiter</h3>
+        <h2>Twitter</h2>
         <p>Lorem ipsum 
             
         dolor sit, amet consectetur adipisicing elit. Eaque accusantium nemo dolore placeat nam dicta saepe maiores totam? Tempore quod voluptate numquam esse veniam laudantium labore suscipit! Dolore, provident ab!</p>
