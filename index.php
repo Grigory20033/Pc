@@ -14,6 +14,19 @@ display:flex;
 align-items:center;
 justify-content:center;
 min-height:100vh; }
+
+.btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: #D4C31C;
+    background-color: #429904
+    color( black)
+   
+    
+}
+
+
+
 </style>
     </head>
     <body> 
