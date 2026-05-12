@@ -40,6 +40,15 @@ min-height:100vh; }
      </div>
      <script src="js/bootstrap.bundle.min.js."></script>
      
+     <article class="block">
+        <i class="icon-social fa fa-twitter" ></i>
+        <h3>Twiter</h3>
+        <p>Lorem ipsum 
+            
+        dolor sit, amet consectetur adipisicing elit. Eaque accusantium nemo dolore placeat nam dicta saepe maiores totam? Tempore quod voluptate numquam esse veniam laudantium labore suscipit! Dolore, provident ab!</p>
+     <a href="#" class="btn">Ver</a>
+    </article>
+
 
     </body>
     
